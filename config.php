@@ -1,7 +1,7 @@
 <?php
 $host = "sql212.infinityfree.com";
-$user = "if0_41888883";
-$pass = "OxJsDG5RFvwj";
+$user = "XXXXXXXXXX";
+$pass = "XXXXXXXXXX";
 $db   = "if0_41888883_autobuses_db";
 
 $conexion = new mysqli($host, $user, $pass, $db);
